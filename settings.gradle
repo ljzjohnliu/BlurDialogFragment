@@ -1,0 +1,3 @@
+rootProject.name = "BlurDialogFragment"
+include ':app'
+include ':blurlib'
